@@ -14,3 +14,5 @@ To use these examples in your projects, follow the steps below:
 2. **Integrate the Example**:
    - **Option 1**: Copy the `.c` file from the example into your project folder. Remove the `main.c` from the HTL template.
    - **Option 2**: Alternatively, copy the contents of the example directly into the `main.c` file of your new project.
+
+LAP, 10/2024
