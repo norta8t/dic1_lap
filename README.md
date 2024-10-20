@@ -6,8 +6,8 @@ The examples in the microcontroller section have been creaed using Microchip Stu
 
 To use the examples ...
 
-1. Create a new project in Microchip Studio using the HTL template,
-2a. **Either** copy the .c file into the project folder and remove main.c from the template, **OR**
-2b. Copy the content of the example into main.c of the project.
+1. Create a new project in Microchip Studio using the HTL template,<br \>
+2a. **Either** copy the .c file into the project folder and remove main.c from the template, **OR**<br \>
+2b. Copy the content of the example into main.c of the project.<br \>
 
 LAP, 10/2024
