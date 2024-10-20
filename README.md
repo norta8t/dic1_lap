@@ -1,2 +1,13 @@
-# dic1_lap
- DIC1 repository LAP
+# DIC1 repository LAP
+
+This repository contains examples used in DIC1 classes at HTL-Rankweil.
+
+The examples in the microcontroller section have been creaed using Microchip Studio and are tailored at MEGACARD v6. 
+
+To use the examples ...
+
+1. Create a new project in Microchip Studio using the HTL template,
+2a. **Either** copy the .c file into the project folder and remove main.c from the template, **OR**
+2b. Copy the content of the example into main.c of the project.
+
+LAP, 10/2024
