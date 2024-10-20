@@ -2,12 +2,12 @@
 | File:         reaction_timer.c
 | Version:      1.0
 | Description:  Implementation of a reaction time game as finite 
-				state machine
+		state machine
 | MEGACARD:     v6
-| Autor:		LAP
-| Created:		09/2024
+| Autor:	LAP
+| Created:	09/2024
 |
-| Changed:		-
+| Changed:	-
 \*-------------------------------------------------------------------------*/
 
 #define __DELAY_BACKWARD_COMPATIBLE__	// To avoid error message "builtin_avr_delay_cycles expects a compile time integer constant"
